@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @anukul
-- 👀 I’m interested in Gamedev, Full Stack WebDev
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Gamedev
 - 📫 How to reach me dev.anukulchandra@gmail.com
 - ⚡ Fun fact: I am an Indie Game Developer 
 
